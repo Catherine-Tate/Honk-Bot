@@ -1,0 +1,11 @@
+{
+	"name": "Honk-Bot",
+	"version": "1.0.0",
+	"description": "Type !honk to honk",
+	"main": "honk.js",
+	"Author": "Cat",
+	"dependencies": {
+		"discord.js": "^12.2.0",
+		"winston": "^3.2.1"
+	}
+}
